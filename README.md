@@ -17,7 +17,7 @@ Our project is going to be a short form video hosting with user interactions, pr
 ----------------------------------------------------------
 ### Models and Schemas
 
-[Tik Tok](https://i.imgur.com/7EvoYAn.png)
+![Tik Tok](https://i.imgur.com/7EvoYAn.png)
 
 ----------------------------------------------------------
 ### User Stories
@@ -35,7 +35,7 @@ As a content creator I want to make videos with audio from other content creator
 ----------------------------------------------------------
 ### Wireframes
 
-[Wireframes](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/fileexport/Export_Da16bbeb2f44cf2847f5dc6c1b16c3494.pdf)
+![Wireframes](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/fileexport/Export_Da16bbeb2f44cf2847f5dc6c1b16c3494.pdf)
 
 ----------------------------------------------------------
 ### Additional Technologies
