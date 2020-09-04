@@ -40,13 +40,14 @@ As a content creator I want to make videos with audio from other content creator
 ----------------------------------------------------------
 ### Additional Technologies
 ##### (MERN Stack expected [MongoDB, Express, React, Node], include any external APIs)
-MongoDB
-Express
-React
-Node
-GraphQL
-ffmpeg extract audio
-Apollo
+
+* MongoDB
+* Express
+* React
+* Node
+* GraphQL
+* ffmpeg extract audio
+* Apollo
 
 
 ----------------------------------------------------------
@@ -63,36 +64,36 @@ Han - Backend / GraphQL
 ##### (or otherwise general plan for accomplishing tasks, preferably broken down by day)
 
 Day 1
-Backend Team
-  Boilerplate
-  typeSchema
-Frontend Team
-  Video Component
-  Bottom Nav Component
-  Sidebar Component
+* Backend Team
+    * Boilerplate
+    * typeSchema
+* Frontend Team
+    * Video Component
+    * Bottom Nav Component
+    * Sidebar Component
 
 Day 2
-Backend Team
-  Resolver schema
-  Cloudinary handling
-Frontend Team
-  Profile Header Component
-  Video Gallery Component
+* Backend Team
+    * Resolver schema
+    * Cloudinary handling
+* Frontend Team
+    * Profile Header Component
+    * Video Gallery Component
 
 
 Day 3
-Backend Team
-  Ffmpeg audio splitting
-Frontend Team
-  Hashtag Component
-  Search Result Component
+* Backend Team
+    * Ffmpeg audio splitting
+* Frontend Team
+    * Hashtag Component
+    * Search Result Component
 
 Day 4
-Backend Team
-  Music detection
-Frontend Team
-  Comment Section Component
-  Comment Component
+* Backend Team
+    * Music detection
+* Frontend Team
+    * Comment Section Component
+    * Comment Component
 
 
 ----------------------------------------------------------
