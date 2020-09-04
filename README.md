@@ -35,8 +35,7 @@ As a content creator I want to make videos with audio from other content creator
 ----------------------------------------------------------
 ### Wireframes
 
-<embed src="https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/fileexport/Export_Da16bbeb2f44cf2847f5dc6c1b16c3494.pdf">
-</embed>
+[Wireframes](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/fileexport/Export_Da16bbeb2f44cf2847f5dc6c1b16c3494.pdf)
 
 ----------------------------------------------------------
 ### Additional Technologies
