@@ -15,7 +15,7 @@ Project Idea:  An app that can host all of SEI 713's Project One games in one sp
 Project Name: GArcade
 </br>
 </br>
-Team Name: TBD
+Team Name: Big Money Rustlas
 </br>
 </br>
 Git Master: Lizz</br>
